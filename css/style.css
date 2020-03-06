@@ -1,0 +1,20 @@
+@import url("https://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+i{
+	font-family: fontawesome !important;
+}
+header{
+	position: fixed;
+	top: 0;
+	z-index: 10;
+	width: 100%;
+}
+.header{
+	background: white;
+	color: black;
+}
+.header a{
+	color: black;
+}
+.navbar-brand{
+	margin-right: 80px;
+}
